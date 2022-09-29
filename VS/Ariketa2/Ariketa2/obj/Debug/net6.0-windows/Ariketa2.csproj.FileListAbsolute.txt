@@ -1,0 +1,17 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.deps.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.runtimeconfig.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\bin\Debug\net6.0-windows\Ariketa2.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.Form1.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.AssemblyInfoInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.AssemblyInfo.cs
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\refint\Ariketa2.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\Ariketa2.genruntimeconfig.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2\Ariketa2\obj\Debug\net6.0-windows\ref\Ariketa2.dll

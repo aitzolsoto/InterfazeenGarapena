@@ -1,0 +1,15 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\bin\Debug\net6.0\ConsoleList.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\bin\Debug\net6.0\ConsoleList.deps.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\bin\Debug\net6.0\ConsoleList.runtimeconfig.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\bin\Debug\net6.0\ConsoleList.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\bin\Debug\net6.0\ConsoleList.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.AssemblyInfoInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.AssemblyInfo.cs
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\refint\ConsoleList.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ConsoleList.genruntimeconfig.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleList\ConsoleList\obj\Debug\net6.0\ref\ConsoleList.dll

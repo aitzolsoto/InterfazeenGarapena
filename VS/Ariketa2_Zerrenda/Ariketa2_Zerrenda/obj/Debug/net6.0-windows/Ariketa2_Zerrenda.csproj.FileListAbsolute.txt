@@ -1,0 +1,17 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\bin\Debug\net6.0-windows\Ariketa2_Zerrenda.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\bin\Debug\net6.0-windows\Ariketa2_Zerrenda.deps.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\bin\Debug\net6.0-windows\Ariketa2_Zerrenda.runtimeconfig.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\bin\Debug\net6.0-windows\Ariketa2_Zerrenda.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\bin\Debug\net6.0-windows\Ariketa2_Zerrenda.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.Form1.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.AssemblyInfoInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.AssemblyInfo.cs
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\refint\Ariketa2_Zerrenda.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\Ariketa2_Zerrenda.genruntimeconfig.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\Ariketa2_Zerrenda\Ariketa2_Zerrenda\obj\Debug\net6.0-windows\ref\Ariketa2_Zerrenda.dll
