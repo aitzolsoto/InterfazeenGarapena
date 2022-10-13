@@ -1,0 +1,6 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\bin\Debug\KaixoDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\bin\Debug\KaixoDll.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\obj\Debug\KaixoDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoDll\KaixoDll\obj\Debug\KaixoDll.pdb

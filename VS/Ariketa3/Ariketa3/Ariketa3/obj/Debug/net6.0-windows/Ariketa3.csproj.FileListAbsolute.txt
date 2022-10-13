@@ -1,0 +1,24 @@
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.AssemblyReference.cache
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.Form1.resources
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.GenerateResource.cache
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.AssemblyInfoInputs.cache
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.AssemblyInfo.cs
+C:\Users\parra.raul\Desktop\Interfaze Garapena\VS\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\bin\Debug\net6.0-windows\Ariketa3.exe
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\bin\Debug\net6.0-windows\Ariketa3.deps.json
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\bin\Debug\net6.0-windows\Ariketa3.runtimeconfig.json
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\bin\Debug\net6.0-windows\Ariketa3.dll
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\bin\Debug\net6.0-windows\Ariketa3.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.Form1.resources
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.AssemblyInfoInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.AssemblyInfo.cs
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.dll
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\refint\Ariketa3.dll
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\Ariketa3.genruntimeconfig.cache
+C:\Users\soto.aitzol\Desktop\InterfazeenGarapenaGithub\VS\Ariketa3\Ariketa3\Ariketa3\obj\Debug\net6.0-windows\ref\Ariketa3.dll

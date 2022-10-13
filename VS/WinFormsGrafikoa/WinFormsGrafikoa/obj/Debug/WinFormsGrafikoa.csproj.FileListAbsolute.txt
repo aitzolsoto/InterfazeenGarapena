@@ -1,0 +1,14 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe.config
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\GrafikoaDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\GrafikoaDll.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Form1.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Properties.Resources.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CopyComplete
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.pdb

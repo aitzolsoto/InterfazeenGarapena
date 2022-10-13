@@ -1,0 +1,15 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\bin\Debug\net6.0\ConsoleHerentzia.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\bin\Debug\net6.0\ConsoleHerentzia.deps.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\bin\Debug\net6.0\ConsoleHerentzia.runtimeconfig.json
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\bin\Debug\net6.0\ConsoleHerentzia.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\bin\Debug\net6.0\ConsoleHerentzia.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.AssemblyInfoInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.AssemblyInfo.cs
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\refint\ConsoleHerentzia.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ConsoleHerentzia.genruntimeconfig.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\ConsoleHerentzia\ConsoleHerentzia\obj\Debug\net6.0\ref\ConsoleHerentzia.dll

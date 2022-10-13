@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soto.aitzol\\Desktop\\InterfazeGarapena\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj": {}
+    "C:\\Users\\soto.aitzol\\Desktop\\InterfazeenGarapenaGithub\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soto.aitzol\\Desktop\\InterfazeGarapena\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj": {
+    "C:\\Users\\soto.aitzol\\Desktop\\InterfazeenGarapenaGithub\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeGarapena\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj",
+        "projectUniqueName": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeenGarapenaGithub\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj",
         "projectName": "Ariketa2_Zerrenda",
-        "projectPath": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeGarapena\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj",
+        "projectPath": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeenGarapenaGithub\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda.csproj",
         "packagesPath": "C:\\Users\\soto.aitzol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeGarapena\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\obj\\",
+        "outputPath": "C:\\Users\\soto.aitzol\\Desktop\\InterfazeenGarapenaGithub\\VS\\Ariketa2_Zerrenda\\Ariketa2_Zerrenda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

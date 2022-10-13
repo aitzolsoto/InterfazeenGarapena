@@ -1,0 +1,8 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.Grafikoa.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.pdb

@@ -1,0 +1,14 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\bin\Debug\KaixoDll.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\bin\Debug\KaixoDll.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CopyComplete
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb

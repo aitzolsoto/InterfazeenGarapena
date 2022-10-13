@@ -1,0 +1,8 @@
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\bin\Debug\WindowsForms2Grafikoa.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\bin\Debug\WindowsForms2Grafikoa.pdb
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.csproj.AssemblyReference.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.Grafikoa2.resources
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.csproj.GenerateResource.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.csproj.CoreCompileInputs.cache
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.dll
+C:\Users\soto.aitzol\Desktop\InterfazeGarapena\VS\WindowsForms2Grafikoa\WindowsForms2Grafikoa\obj\Debug\WindowsForms2Grafikoa.pdb
