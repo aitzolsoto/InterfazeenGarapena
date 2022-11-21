@@ -1,0 +1,48 @@
+﻿@model Adibidea.Models.Kontaktua
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Kontaktua</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nan)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nan)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.izena)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.izena)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.abizena)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.abizena)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.emaila)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.emaila)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.izenOsoa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.izenOsoa)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
