@@ -11,23 +11,29 @@
                     Ardoa
                 </th>
                 <th>
+                    Izena
+                </th>
+                <th>
                     Kantitatea
                 </th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model.SaskiaAleak)
+            @foreach (var item in Model.SaskiaAleaVMList)
             {
                 <tr>
                     <td>
                         @Html.DisplayFor(modelItem => item.ArdoaId)
                     </td>
-                    
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Izena)
+                    </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.Kantitatea)
                     </td>
                 </tr>
             }
+            
             <tr>
                 <td>
                     <a class="btn btn-borgona text-light" asp-controller="Home" asp-action="Index">Bueltatu</a>

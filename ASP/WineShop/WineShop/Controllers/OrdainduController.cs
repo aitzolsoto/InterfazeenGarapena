@@ -7,6 +7,7 @@ using WineShop.Services;
 using Newtonsoft.Json;
 using System.Text;
 using WineShop.ViewModels;
+using WineShop.VIewModels;
 
 namespace WineShop.Controllers
 {
@@ -14,9 +15,11 @@ namespace WineShop.Controllers
     public class OrdainduController : Controller
     {
         private readonly ISaskiaService _saskiaService;
-        public OrdainduController(ISaskiaService saskiaService)
+        private readonly IArdoaService _ardoaService;
+        public OrdainduController(ISaskiaService saskiaService,IArdoaService ardoaService)
         {
             _saskiaService = saskiaService;
+            _ardoaService = ardoaService;
         }
         public IActionResult Index()
         {
@@ -41,6 +44,7 @@ namespace WineShop.Controllers
                 return RedirectToAction("Osatu", new
                 {
                     bezeroa = bezeroaEskaera.Izena + " " + bezeroaEskaera.Abizena,
+                    
                     saskiaId = cart.SaskiaId
                 });
             }
@@ -72,7 +76,24 @@ namespace WineShop.Controllers
         public async Task<IActionResult> Osatu(string bezeroa, string saskiaId)
         {
             var osatuViewModel = new OsatuViewModel(); //ViewModel bat erabiliko dugu
-            osatuViewModel.SaskiaAleak = await _saskiaService.SaskiaLortuAleak(saskiaId);
+            IList<SaskiaAlea> saskiaAleaList = new List<SaskiaAlea>();
+            saskiaAleaList = await _saskiaService.SaskiaLortuAleak(saskiaId);
+            IList<SaskiaAleaViewModel> saskiaAleaVMList = new List<SaskiaAleaViewModel>();
+            foreach (var saskiaAlea in saskiaAleaList)
+            {
+                var ardoa = await _ardoaService.GetArdoa(saskiaAlea.ArdoaId);
+                SaskiaAleaViewModel saskiaAleaViewModel = new SaskiaAleaViewModel()
+                {
+                    ArdoaId = ardoa.Id,
+                    Irudia = ardoa.Irudia,
+                    Izena = ardoa.Izena,
+                    Kantitatea = saskiaAlea.Kantitatea,
+                    Salneurria = ardoa.Salneurria
+                };
+                saskiaAleaVMList.Add(saskiaAleaViewModel);
+            }
+            osatuViewModel.SaskiaAleaVMList = saskiaAleaVMList;
+            osatuViewModel.SaskiaAleak = saskiaAleaList;
             osatuViewModel.SaskiaId = saskiaId;
             osatuViewModel.Bezeroa = bezeroa;
             return View(osatuViewModel);

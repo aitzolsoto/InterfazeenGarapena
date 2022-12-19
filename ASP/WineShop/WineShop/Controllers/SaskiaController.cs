@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Reflection.Metadata.Ecma335;
 using WineShop.Models;
 using WineShop.Services;
 using WineShop.VIewModels;
@@ -63,16 +64,33 @@ namespace WineShop.Controllers
         public async Task<IActionResult> SaskiaKenduAjax(int id, int kantitatea, float salneurria, float guztira)
         {
             var cart = Saskia.SaskiaLortu(this.HttpContext);
-            await _saskiaService.SaskiaGehitu(id,cart.SaskiaId);
-            kantitatea--;
-            var results = new
+            await _saskiaService.SaskiaKendu(id,cart.SaskiaId);
+            if (kantitatea > 0)
             {
-                mezua = "Zure saskia eguneratu da",
-                kantitatea = kantitatea,
-                salneurria = salneurria,
-                guztira = guztira
-            };
-            return Json(results);
+                kantitatea--;
+                var results = new
+                {
+                    mezua = "Zure saskia eguneratu da",
+                    kantitatea = kantitatea,
+                    salneurria = salneurria,
+                    guztira = guztira
+                };
+                return Json(results);
+            }
+            else
+            {
+                var results = new
+                {
+                    mezua = "Kantitatea 0 da, ezin da gehiago kendu",
+                    kantitatea = kantitatea,
+                    salneurria = salneurria,
+                    guztira = guztira
+                };
+                return Json(results);
+            }
+                
+            
+            
         }
     }
 }
